@@ -1,8 +1,7 @@
-### Hello , Im Luis  👋
+## Hello , Im Luis  👋
 
-- 🔭 I’m currently Studying  Computer Science at UFPI   
-- 🌱 I’m  learning skills in Competitive programming and some other things. 
-- 📫 How to reach me: <a href ="luis.enilton@ufpi.edu.br " >E-mail > Or <a  href="https://www.linkedin.com/in/luis-oliveira-5915b5257/"  >Linkedin
+ ### 🔭 I’m currently Studying  Computer Science at UFPI    
+- 📫 How to reach me: <a href ="luis.enilton@ufpi.edu.br " ><p>E-mail </p></a> <a  href="https://www.linkedin.com/in/luis-oliveira-5915b5257/"  ><p>Linkedin</p> </a>
 
 <div>
   <a href="https://github.com/LuisEnilton">
