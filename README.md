@@ -1,13 +1,20 @@
-## Hello , Im Luis  👋
+## Hi there , I'm Luis Enilton  👋
 
- ### 🔭 I’m currently Studying  Computer Science at UFPI    
-- 📫 How to reach me:  <a  href="https://www.linkedin.com/in/luis-oliveira-5915b5257/"  ><p>Linkedin</p> </a>
+ ###  How to reach me:
 
-<div>
-  <a href="https://github.com/LuisEnilton">
-  <img height="240cm" src="https://github-readme-stats.vercel.app/api?username=LuisEnilton&show_icons=true"/>
-  <img height="240cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEnilton&layout=donut&langs_count=4&hide=cmake"/>
-</div>
+- Email : luiseniltonxy@gmail.com
+- [Linkedin](linkedin.com/in/luis-enilton)
+- [Codeforces](https://codeforces.com/profile/Nillindo)
+
+### Stats
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisEnilton&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisEnilton&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisEnilton&theme=dracula)
+
+<br>
  
 
 
